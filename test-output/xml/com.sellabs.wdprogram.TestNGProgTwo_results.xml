@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestTwo"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.007">
+  <properties />
+  
+  
+            <testcase name="C" time="0.002" classname="com.sellabs.wdprogram.TestNGProgTwo" />
+                <testcase name="D" time="0.001" classname="com.sellabs.wdprogram.TestNGProgTwo" />
+                <testcase name="B" time="0.002" classname="com.sellabs.wdprogram.TestNGProgTwo" />
+                <testcase name="A" time="0.002" classname="com.sellabs.wdprogram.TestNGProgTwo" />
+      
+</testsuite>

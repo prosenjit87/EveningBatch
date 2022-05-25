@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="SampleSuite">
+	<test name="TestOne">
+		<classes>
+			<class name="com.sellabs.wdprogram.MyTestClass1" />
+			<class name="com.sellabs.wdprogram.MyTestClass2" />
+		</classes>
+	</test>
+	<test name="TestTwo">
+		<classes>
+			<class name="com.sellabs.wdprogram.MyTestClass2" />
+		</classes>
+	</test>
+</suite>
