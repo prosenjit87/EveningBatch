@@ -6,8 +6,5 @@
 		<listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
 	</listeners>
 	<test name="TestOne">
-		<classes>
-			<class name="com.sellabs.wdprogram.TestNGProg" />
-		</classes>
 	</test>
 </suite>
